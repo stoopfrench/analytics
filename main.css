@@ -1,0 +1,47 @@
+
+#aboutUs {
+
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	padding: 3rem;
+	border: 3px solid black;
+
+}
+
+#mission {
+
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	padding: 3rem;
+	border: 3px solid black;
+
+}
+
+#testimonials {
+
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	padding: 3rem;
+	border: 3px solid black;
+}
+
+#testimonials img {
+
+	height: 100%;
+	width: 100%;
+	opacity: 0.7;
+
+}
+
+#testimonials img:hover {
+
+	opacity: 1;
+}
+
+#theForm {
+
+	border: 3px solid black;
+	margin-top: 10px;
+	padding: 3rem;
+}
+
